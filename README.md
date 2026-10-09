@@ -22,6 +22,7 @@ graph TD
     A --> A2["Algorithmic Trading"]:::auth
     A --> A3["Negotiation"]:::auth
     A --> A4["Personal Finance (Hybrid)"]:::auth
+    A --> A5["Money Theory & Taxes (Hybrid)"]:::auth
 
     B --> B1["The Bible & Psychology"]:::cur
     B --> B2["Psychology & Personal Development"]:::cur
@@ -46,6 +47,7 @@ Below is the mapping of our topics, their strategic tracks, and their designated
 | 📁 **[algorithmic-trading](algorithmic-trading/README.md)** | **Authority** | Quantitative trading systems, backtesting setups, Python scripts. | Starter-kits, algorithm templates, technical ebooks, premium courses. |
 | 📁 **[negotiation](negotiation/README.md)** | **Authority** | Tactical negotiation frameworks, corporate dispute resolution. | Corporate workshops, video templates, premium cohorts. |
 | 📁 **[personal-finance](personal-finance/README.md)** | **Hybrid** | Wealth accumulation, saving systems, index investing models. | Curated newsletters, spreadsheets/calculators, ebooks, sponsor spots. |
+| 📁 **[money-theory-and-taxes](money-theory-and-taxes/README.md)** | **Hybrid** | Macro monetary systems, central banking, fiscal policy, tax architecture. | Ebooks, tax strategy templates, video courses, macro briefings. |
 | 📁 **[bible-psychology](bible-psychology/README.md)** | **Curator** | Biblical narratives analyzed through Jungian/evolutionary psychology. | Curated reading lists, visual posters/maps (POD merch), ebooks. |
 | 📁 **[psychology-and-development](psychology-and-development/README.md)** | **Curator** | Cognitive biases, relationship mechanics, personal habits. | Synthesized books/summaries, journaling guides, accountability cohorts. |
 | 📁 **[socioeconomic-history](socioeconomic-history/README.md)** | **Curator** | The rise of systems, historical economic shifts, geopolitics. | High-quality podcasts, display ads, sponsored newsletters, history merch. |
